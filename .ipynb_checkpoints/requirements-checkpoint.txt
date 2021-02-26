@@ -1,0 +1,6 @@
+datascience
+jupyterlab
+matplotlib
+notebook
+numpy
+pandas
