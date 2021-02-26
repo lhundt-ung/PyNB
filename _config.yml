@@ -1,8 +1,8 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Intro to Applied Statistics  # The title of the book. Will be placed in the left navbar.
-author: Robb Sinn  # The author of the book
+title: CSCI1411: Script Programming  # The title of the book. Will be placed in the left navbar.
+author: Lance Hundt  # The author of the book
 copyright: "2021"  # Copyright year to be placed in the footer
 logo: UNG.logo.png  # A path to the book logo
 
