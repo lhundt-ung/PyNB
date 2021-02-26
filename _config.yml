@@ -1,7 +1,7 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: CSCI1411: Script Programming  # The title of the book. Will be placed in the left navbar.
+title: CSCI1411 - Script Programming  # The title of the book. Will be placed in the left navbar.
 author: Lance Hundt  # The author of the book
 copyright: "2021"  # Copyright year to be placed in the footer
 logo: UNG.logo.png  # A path to the book logo

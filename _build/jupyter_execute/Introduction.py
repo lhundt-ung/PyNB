@@ -1,7 +1,6 @@
-# Introduction to Applied Statistics
+# CSCI 1411: Script Programming
 
-A work in progress using Python's datascience package to perform applied statistics visualizations and data analyses.
-
+Using Jupyter Notebook for Python Assignment
 
 
 ```{toctree}
