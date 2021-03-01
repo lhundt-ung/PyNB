@@ -1,3 +1,2 @@
 jupyterlab
-matplotlib
 notebook
